@@ -1,4 +1,4 @@
-#coucou Nicolas !!!
+#coucou Nicolas !!! hello 
 
 weighted.mean2 <- function(group.mean, pourcent_pop, pourcent_gp) {
   
